@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anuj Kumar! 👋
 
-<!--
-**anujkumar731/anujkumar731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Chandigarh University
 
-Here are some ideas to get you started:
+💻 Aspiring AI & Data Science Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌱 Currently learning Python and Data Science
+- 🤖 Interested in Artificial Intelligence
+- 💡 Learning programming and problem solving
+- 🎯 Looking for internship opportunities
+
+### Programming Languages
+- C
+- C++
+- Python
+- Java
+
+### Goals
+- Build practical projects
+- Learn Machine Learning
+- Improve problem-solving skills
+- Contribute to open-source projects
